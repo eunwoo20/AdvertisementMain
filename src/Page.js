@@ -129,7 +129,7 @@ function DrawerAppBar(props) {
       <Grid item xs={12}>
         <Item>
         <Typography variant="h6" gutterBottom>
-                 <h3>MX Advantage</h3> 
+                 <h3>Camera Tales Advantage</h3> 
                  </Typography>
           <Typography variant="h4" gutterBottom>
                <p>Why advertise with us</p>
@@ -179,7 +179,7 @@ function DrawerAppBar(props) {
       <Grid item xs={12}>
         <Item>
         <Typography variant="h6" gutterBottom>
-                 <h3>MX Advantage</h3> 
+                 <h3>Camera Tales Advantage</h3> 
                  </Typography>
           <Typography variant="h4" gutterBottom>
                <p>Immersive Ad Formats to drive Brand Awareness and Engagement</p>
